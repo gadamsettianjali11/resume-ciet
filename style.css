@@ -1,0 +1,37 @@
+*{
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+}
+.main{
+    display: flex;
+}
+.left{
+    width: 30%;
+    border:3px solid lawngreen;
+    box-shadow:3px 3px 3px blue;
+    margin: 5px;
+}
+.img{
+    width: 95%;
+}
+.right{
+    margin: 3px;
+    color: aqua
+    width: 65%;
+    border: 3px solid seagreen;
+    box-shadow:3px 3px 3px sienna;
+    font-size: 24px;
+}
+.cr{
+    color: blue;
+    font-style: italic;
+}
+.skills{
+    background-color: darkgray;
+    color: forestgreen;
+    border:2px cornflowerblue;
+    border:2px solid darkslategray;
+    box-shadow:3px 3px 3px deepskyblue;
+    padding: 3px;
+    border-radius: 3px;
+}
